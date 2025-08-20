@@ -1,0 +1,122 @@
+{
+  "Fitts's Law": {
+    "definition": "Time to acquire a target depends on distance and size.",
+    "checklist": [
+      "Primary CTAs ≥ 44×44 px target",
+      "Increase padding for small text links",
+      "Reduce distance between related controls"
+    ]
+  },
+  "Hick's Law": {
+    "definition": "Decision time increases with number/complexity of choices.",
+    "checklist": [
+      "Group related nav items",
+      "Progressively disclose options",
+      "Prioritize defaults"
+    ]
+  },
+  "Miller's Law": {
+    "definition": "Average person can keep 7±2 items in working memory.",
+    "checklist": [
+      "Limit menu items to 5-9 options",
+      "Chunk information into groups",
+      "Use progressive disclosure for complex forms"
+    ]
+  },
+  "Jakob's Law": {
+    "definition": "Users prefer familiar patterns similar to other sites.",
+    "checklist": [
+      "Conventional nav positions",
+      "Standard iconography",
+      "Predictable interactions"
+    ]
+  },
+  "Aesthetic–Usability Effect": {
+    "definition": "Attractive things feel easier to use.",
+    "checklist": [
+      "Consistent visual language",
+      "Limit visual noise",
+      "Use purposeful motion"
+    ]
+  },
+  "Doherty Threshold": {
+    "definition": "System response time should be under 400ms for optimal flow.",
+    "checklist": [
+      "Optimize critical user paths",
+      "Show loading states for delays",
+      "Preload anticipated content"
+    ]
+  },
+  "Tesler's Law": {
+    "definition": "Every application has inherent complexity that cannot be removed.",
+    "checklist": [
+      "Hide complexity behind simple interfaces",
+      "Provide advanced options separately",
+      "Default to simplest workflow"
+    ]
+  },
+  "Serial Position Effect": {
+    "definition": "Users remember first and last items in a list best.",
+    "checklist": [
+      "Place important actions at start/end",
+      "Avoid burying key options in middle",
+      "Structure navigation with priority order"
+    ]
+  },
+  "Von Restorff Effect": {
+    "definition": "Items that stand out are more memorable.",
+    "checklist": [
+      "Highlight primary actions distinctly",
+      "Use contrast for important elements",
+      "Avoid overusing emphasis"
+    ]
+  },
+  "Law of Proximity": {
+    "definition": "Spatially close items are perceived as related.",
+    "checklist": [
+      "Tighten groups of related elements",
+      "Add whitespace between different groups",
+      "Align within functional groups"
+    ]
+  },
+  "Law of Similarity": {
+    "definition": "Similar looking elements are perceived as related.",
+    "checklist": [
+      "Use consistent styling for similar functions",
+      "Differentiate unrelated elements",
+      "Group by visual similarity"
+    ]
+  },
+  "Law of Continuity": {
+    "definition": "Elements arranged on a line or curve are perceived as related.",
+    "checklist": [
+      "Align elements to create visual flow",
+      "Use consistent grid systems",
+      "Guide eye movement with layout"
+    ]
+  },
+  "Law of Closure": {
+    "definition": "Mind fills in gaps to create complete shapes.",
+    "checklist": [
+      "Use implied boundaries effectively",
+      "Leverage white space for grouping",
+      "Create clear visual containers"
+    ]
+  },
+  "Figure-Ground": {
+    "definition": "Eye separates objects from their background.",
+    "checklist": [
+      "Ensure sufficient contrast",
+      "Use depth cues effectively",
+      "Avoid competing visual elements"
+    ]
+  },
+  "Law of Prägnanz": {
+    "definition": "People perceive complex images in their simplest form.",
+    "checklist": [
+      "Simplify visual complexity",
+      "Use clear, recognizable patterns",
+      "Reduce cognitive processing load"
+    ]
+  }
+}
